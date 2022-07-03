@@ -1,0 +1,1 @@
+print("abhimanigale dhanyavadagaly")
